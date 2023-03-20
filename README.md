@@ -1,7 +1,7 @@
 ### <div align="center">I'm toidicakhia, a developer</div>  
   
 
-- 🔭 I’m currently working on [Avocado Market]  
+- 🔭 I’m currently working on **Avocado Market**
   
 
 - 🌱 I’m currently learning Rust  
