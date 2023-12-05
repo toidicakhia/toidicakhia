@@ -1,4 +1,4 @@
-![image](https://github.com/toidicakhia/toidicakhia/assets/108525966/e89d1639-4402-4f76-877f-7ab317d814a2)### <div align="center">I'm toidicakhia, a developer</div>  
+### <div align="center">I'm toidicakhia, a developer</div>  
   
 
 - I’m currently working on **MinusMC Network**  
