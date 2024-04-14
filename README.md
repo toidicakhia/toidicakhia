@@ -1,7 +1,8 @@
-### <div align="center">I'm toidicakhia, a developer</div>  
-  
+<div align="center">
+  <h2>I'm toidicakhia, a developer</h2>
+  <h3>I’m currently working on **MinusMC Network**</h3>
+</div>
 
-- I’m currently working on **MinusMC Network**  
   
 
 <br/>  
