@@ -1,12 +1,6 @@
 <div align="center">
   <h2>I'm toidicakhia, a developer</h2>
-  <h3>I’m currently working on **MinusMC Network**</h3>
 </div>
-
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
